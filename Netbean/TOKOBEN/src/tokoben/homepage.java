@@ -680,7 +680,6 @@ public class homepage extends javax.swing.JFrame {
                     data = ServerConnect("http://localhost:8000/item", "GET");
                     JSONArray myrec = null;
 
-                    //                    JANGAN LUPA TRY CATCH
                     myrec = new JSONArray(data);
                     for(int i = 0; i<myrec.length(); i++){
                         JSONObject arrObj  = myrec.getJSONObject(i);
@@ -698,7 +697,6 @@ public class homepage extends javax.swing.JFrame {
                     
                     
 
-                    //                    /jTable1.setSelectionMode(ListSelectionModel).(SINGLE_SELECTION);
 
                 } catch (Exception ex) {
                     Logger.getLogger(homepage.class.getName()).log(Level.SEVERE, null, ex);
