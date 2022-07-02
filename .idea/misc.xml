@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_cartpage.xml" value="0.33" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_homepage.xml" value="0.3772204806687565" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_item_transactions.xml" value="0.2" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_itempage.xml" value="0.4" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_navbar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_paymentsuccess.xml" value="0.25" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_registerpage.xml" value="0.33" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/activity_transactionitemlist.xml" value="0.264" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/cart_lvelement.xml" value="0.536" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/fragment_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/fragment_profile.xml" value="0.35260416666666666" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/fragment_transactions.xml" value="0.358695652173913" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/home_lvelement.xml" value="0.5" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/ti_lvelement.xml" value="0.25" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/layout/transactions_lvelement.xml" value="0.365625" />
+        <entry key="..\:/Kuliah/SMS 6/PAT/TOKOBEN/app/src/main/res/menu/bottom_nav.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
